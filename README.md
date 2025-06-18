@@ -34,17 +34,17 @@ After processing, the results of both methods are displayed along with MSE (Mean
 
 🚀 How to Use
 1. Generate Noisy Image
-'''bash
+```bash
 python noisy_code.py
-'''
+```
 2. Open GUI for Noise Reduction
-'''bash
+```bash
 python noise_reduction_gui.py
-'''
+```
 3. Run Batch Evaluation
-'''bash
+```bash
 python batch_evaluation.py
-'''
+```
 
 📝 Note
 - Make sure the image is in grayscale or .jpg format
